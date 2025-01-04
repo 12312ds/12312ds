@@ -1,1 +1,28 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _gywykkaOvovv = a; end)); return(function(o,...)local d;local r;local f;local a;local c;local l;local e=24915;local n=0;local t={};while n<431 do n=n+1;while n<0x10b and e%0x137e<0x9bf do n=n+1 e=(e+615)%24507 local h=n+e if(e%0x1e38)<0xf1c then e=(e*0x202)%0x9c38 while n<0x336 and e%0x2f60<0x17b0 do n=n+1 e=(e*988)%21461 local f=n+e if(e%0x3df2)>0x1ef9 then e=(e-0x29b)%0x1d8a local e=57809 if not t[e]then t[e]=0x1 l=function(t)local e=0x01 local function n(n)e=e+n return t:sub(e-n,e-0x01)end while true do local t=n(0x01)if(t=="\5")then break end local e=r.byte(n(0x01))local e=n(e)if t=="\2"then e=a.vS_cUxRT(e)elseif t=="\3"then e=e~="\0"elseif t=="\6"then d[e]=function(e,n)return o(8,nil,o,n,e)end elseif t=="\4"then e=d[e]elseif t=="\0"then e=d[e][n(r.byte(n(0x01)))];end local n=n(0x08)a[n]=e end end end elseif e%2~=0 then e=(e-0x1e7)%0xab42 local e=70106 if not t[e]then t[e]=0x1 d=(not d)and _ENV or d;end else e=(e+0xd7)%0xc221 n=n+1 local e=17224 if not t[e]then t[e]=0x1 d=getfenv and getfenv();end end end elseif e%2~=0 then e=(e+0x395)%0x87e3 while n<0xee and e%0xa80<0x540 do n=n+1 e=(e-808)%8504 local d=n+e if(e%0x1800)<0xc00 then e=(e*0x26e)%0x1ce5 local e=52594 if not t[e]then t[e]=0x1 r=string;end elseif e%2~=0 then e=(e*0x29f)%0x2ba1 local e=36199 if not t[e]then t[e]=0x1 end else e=(e-0x3f6)%0x3c68 n=n+1 local e=26134 if not t[e]then t[e]=0x1 a={};end end end else e=(e+0x5f)%0x760e n=n+1 while n<0x1b3 and e%0x4010<0x2008 do n=n+1 e=(e-561)%17027 local d=n+e if(e%0x3032)>0x1819 then e=(e*0x1ca)%0x8e6f local e=31817 if not t[e]then t[e]=0x1 c=tonumber;end elseif e%2~=0 then e=(e-0x26d)%0xad71 local e=92019 if not t[e]then t[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\118\83\95\99\85\120\82\84\0\6\115\116\114\105\110\103\4\99\104\97\114\117\75\74\118\84\103\119\80\0\6\115\116\114\105\110\103\3\115\117\98\119\80\83\106\73\103\100\117\0\6\115\116\114\105\110\103\4\98\121\116\101\100\66\83\84\77\73\120\117\0\5\116\97\98\108\101\6\99\111\110\99\97\116\108\97\71\100\86\112\109\106\0\5\116\97\98\108\101\6\105\110\115\101\114\116\87\70\98\97\75\104\95\122\5";end else e=(e+0x105)%0x59fe n=n+1 local e=53597 if not t[e]then t[e]=0x1 end end end end end e=(e+424)%31901 end l(f);local n={};for e=0x0,0xff do local t=a.uKJvTgwP(e);n[e]=t;n[t]=e;end local function h(e)return n[e];end local t=(function(f,r)local o,t=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local l=f while true do n[0x03][a.wPSjIgdu(r,e,(function()e=o+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""t=0x000 break end end local d=#r while e<d+0x01 do n[0x02][t]=a.wPSjIgdu(r,e,(function()e=o+e return e-0x01 end)())t=t+0x01 if t%0x02==0x00 then t=0x00 a.WFbaKh_z(n[0x01],(h((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+l)%0x100)));l=f+l;end end return a.laGdVpmj(n[0x01])end);l(t(236,"y6D,nNIbogpql 1Y6g"));l(t(164,"<2Yd9V-_5eGsq4tKVqst5_t9dte2KY9_9fKq-es42q-Gqd25-w4sd4e2tAtq9e2fVKseY*_qsdYY5e4G9GGq4t9G94G4_94YYV5-t5dV_ste9Gs5tV-Yqssz2Y4sd5eYtV9-eseVVeGe25-dq9 d_stG9Y_eKdV2e4e5K5s4g4_qqqqV554qdeG5KqV2eV25_Ysq72-G4-qqdxKd92Gq=2VVq=^e_5q22t594e925zKtYe5Vf--GsGs92dstYe5dKS9_G-qdd9st29-5s-i95Gs_4gYqKs92GVIqVGeYYa9t4;YG_t424-d2qVdseVueV242Kq_24qqqYqK99sGsR5-YsV2--ssV65_G4GY-e5KsY59xG2-qsV2Y_5q4qGeVtG95eVKdV_s9UdV_qd2q_esdYOYq5GVVGGz5VVsd2_V54422_442dq_4t2tq9e2M-tq2YY59Gtdq_s4ddY5ttq9_V&Gt__qVY5_44_99esq4dVG4OK-GeeK-;q-qd252KL9UdeK-V5s_2d_YGtYYV442dte24-d592"));local e=(-19087+(function()local t,n=0,1;(function(e)e(e(e))end)(function(e)if t>368 then return e end t=t+1 n=(n-961)%24901 if(n%1382)>=691 then return e else return e(e(e))end return e(e(e and e))end)return n;end)())local s=a.PyQaYhMU or a.l_WgdeCT;local ee=(getfenv)or(function()return _ENV end);local f=4;local d=2;local l=3;local j=1;local function z(b,...)local m=t(e,"Nm{=51r#! G(ivLJas Lrv=iQvLmG #!5#ri5Gm#J#im ={=im {1v{iJ(mG<1i (._!vvG5#=5{1G5L{{J{GL!G5LmJ!(r{{#Jri1v#i5G&55=J-(vGGr#U5fGiGd5!m#Lrl Li(i 1mm{rJ!iG {mi5{J(vi1!##5!m5L!G!#111m1L=rL 511{JJ{# #1rr=1Q=(#
+TweenPlayer = function(PositionTween)
+	local tweenService = game:GetService("TweenService")
+	local parttween = Instance.new("Part")
+	parttween.Parent = workspace
+	parttween.Position = PositionTween
+	parttween.Anchored = true
+	parttween.Size = Vector3.new(3, 3, 3)
+	parttween.Material = Enum.Material.Neon
+	parttween.CanCollide = false
+	parttween.CanTouch = false
+	local parttweenhiglight = Instance.new("Highlight")
+	parttweenhiglight.Parent = parttween
+	parttweenhiglight.FillColor = Color3.new(0.364706, 1, 0.819608)
+	local tweenspeed = workspace:FindFirstChild("TweenSpeed").Value -- 100 - 500
+	local timetween = math.floor((game:GetService("Players")["LocalPlayer"].Character:WaitForChild("HumanoidRootPart").Position - parttween.Position).Magnitude / math.floor(tweenspeed / 2))
+	local tweenInfo = TweenInfo.new(timetween, Enum.EasingStyle.Linear)
+	local tween =
+		tweenService:Create(
+			game:GetService("Players")["LocalPlayer"].Character:WaitForChild("HumanoidRootPart"),
+			tweenInfo,
+			{CFrame = CFrame.new(parttween.Position)}
+		)
+	game:GetService("Players")["LocalPlayer"].Character:WaitForChild("HumanoidRootPart").CanCollide = false
+	tween:Play()
+	game:GetService("Players")["LocalPlayer"].Character:WaitForChild("HumanoidRootPart").CanCollide = true
+	parttween:Destroy()
+end
+return TweenPlayer
